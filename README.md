@@ -19,3 +19,22 @@
 
     `sudo apt install r-cran-tidyverse`
 
+### Using VSCode instead of RStudio
+
+### Setup Github
+    Using SSH
+
+## Example Programs
+- Check if Armstrong Number
+- Simple Calculator
+- Print out factors of a number
+- Fibonacci Series
+- Fibonacci Series with recursion
+- Find H.C.F.
+- Find L.C.M.
+- Check if Leap Year
+- Print Multiplication Table
+- Check if Even/Odd
+- Check if Prime
+- Print out Sum of N natural number
+
